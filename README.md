@@ -18,3 +18,5 @@ Rhythm Cowboy shakes things up in a couple of ways:
 2. Rhythm. By timing your action just before the red marker, you can send another action on the next beat. You can combo this endlessly to overwhelm and out-skill your opponent.
 
 If people think this is fun, I might eventually get around to adding more maps and special abilities, but for now this is it. Controls will be displayed in the lower corners when the game starts.
+
+### Download on [itch.io](https://jayhawkinsmtu.itch.io/rhythm-cowboy)
